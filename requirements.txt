@@ -1,6 +1,7 @@
-streamlit
+Flask
 numpy
 pandas
 Pillow
 scikit-image
 joblib
+gunicorn==21.2.0
