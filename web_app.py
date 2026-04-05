@@ -399,4 +399,4 @@ if __name__ == '__main__':
     print("  画作分派别视觉舒适度评价系统")
     print("  访问地址: http://localhost:5000")
     print("=" * 50 + "\n")
-    app.run(debug=False, host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=10000, debug=False)
